@@ -1,0 +1,3 @@
+﻿10;Oswald Cobblepot;Edward Nygma;Imagens\cobblepot.jpg
+20;Bruce Wayne;Alfred Pennyworth;Imagens\wayne.jpg
+30;Jim Gordon;Harvey Bullock;Imagens\gordon.jpg
